@@ -1,2 +1,2 @@
 new md
-ey you man
+#this is main.md 
